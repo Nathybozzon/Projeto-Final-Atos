@@ -8,7 +8,7 @@ As tecnologias utilizadas foram:
 
 Spring boot, spring security, JPA
 MySql
-Bootstrap e JQuery
+Bootstrap e JQuery<br>
 Foi desenvolvido na IDE Eclipse
 
 
